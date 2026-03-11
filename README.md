@@ -1,6 +1,5 @@
 ## Thiết kế web
-[Tìm template web] 
-[MIT](https://www.google.com/)
+[Tìm template web](https://www.google.com/)
 ## Xác định chức năng của web
 ## Xác định kiến trúc web
 ## Clean code, cấu trúc thư mục
