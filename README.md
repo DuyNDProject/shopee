@@ -1,6 +1,7 @@
 ## Thiết kế web
-<pre>
 [Tìm template web]()
+
+
 [Xác định chức năng của web]()
 [Xác định kiến trúc web]()
 [Clean code, cấu trúc thư mục]()
@@ -8,4 +9,3 @@
 [Xây dựng web]()
 [Bảo mật web]()
 [Kiểm thử web]()
-</pre>
