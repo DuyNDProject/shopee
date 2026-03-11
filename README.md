@@ -1,7 +1,6 @@
 ## Thiết kế web
 [Tìm template web]()
 
-
 [Xác định chức năng của web]()
 [Xác định kiến trúc web]()
 [Clean code, cấu trúc thư mục]()
