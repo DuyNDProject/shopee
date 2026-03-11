@@ -7,11 +7,11 @@
 
 [Clean code](https://github.com/DuyNDProject/shopee/blob/main/docs/cleancode.md)
 
-[Cấu trúc thư mục]()
+[Cấu trúc thư mục](https://github.com/DuyNDProject/shopee/blob/main/docs/structure.md)
 
-[Tìm nơi lưu trữ source code và tạo server cho web]()
+[Tìm nơi lưu trữ source code và tạo server cho web](https://github.com/DuyNDProject/shopee/blob/main/docs/sourcecode.md)
 
-[Xây dựng web]()
+[Xây dựng web](https://github.com/DuyNDProject/shopee/blob/main/docs/development.md)
 
 [Bảo mật web]()
 
