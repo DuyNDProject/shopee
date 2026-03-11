@@ -5,7 +5,9 @@
 
 [Xác định kiến trúc web]()
 
-[Clean code, cấu trúc thư mục]()
+[Clean code]()
+
+[Cấu trúc thư mục]()
 
 [Tìm nơi lưu trữ source code và tạo server cho web]()
 
