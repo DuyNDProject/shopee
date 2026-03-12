@@ -13,7 +13,7 @@
 
 [Xây dựng web](https://github.com/DuyNDProject/shopee/blob/main/docs/development.md)
 
-[Xử lý lỗi](https://github.com/DuyNDProject/shopee/blob/main/docs/logging.md)
+[Xử lý lỗi](https://github.com/DuyNDProject/shopee/blob/main/docs/error.md)
 
 [Bảo mật web]()
 
