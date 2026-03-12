@@ -15,6 +15,6 @@
 
 [Xử lý lỗi](https://github.com/DuyNDProject/shopee/blob/main/docs/error.md)
 
-[Bảo mật web]()
+[Bảo mật web](https://github.com/DuyNDProject/shopee/blob/main/docs/security.md)
 
 [Kiểm thử web]()
