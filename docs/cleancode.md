@@ -12,6 +12,39 @@
 | `Class` | `PascalCase` | UserController |
 | `Class CSS` | `BEM` | kebab-case__kebab-case |
 
+## Quy tắc BEM
+- Block - Là một khối riêng, ví dụ tôi có một button, tôi có thể coi đây là một khối, cách đặt tên là: .block, VD:
+```bash
+.button {
+    //Style for button
+}
+```
+
+- Element - Các phần từ ở trong khối, ví dụ trong button tôi có element icon và text, cách đặt tên sẽ là: .block__element, VD:
+```bash
+.button__icon {
+    //Style for icon
+}
+
+.button__text {
+    //Style for text
+}
+```
+
+- Modifier - Dạng chỉnh sửa của block, element, tôi cần button có kích thước lớn, và button có color đỏ, cách đặt tên sẽ là: .block--modifier, block__element--modifier, VD:
+```bash
+.button--size-big {
+    //Style for size big
+}
+
+.button--color {
+    //Style for color red
+}
+```
+
+## Quy tắc viết mã
+- Luôn đặt tên biến, hàm rõ nghĩa không viết chung chung hay viết tắt
+
 ## Quy tắc về số lượng
 - Lớp không nên vượt quá 500 dòng
 - Không quá 30 dòng code/hàm (nếu vượt quá, cần tách thành các hàm con)
