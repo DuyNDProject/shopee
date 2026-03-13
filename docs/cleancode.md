@@ -10,15 +10,21 @@
 | `Hằng số` | `UPPER_CASE` | MAX_RETRIES |
 | `Hàm` | `camelCase + động từ` | validateInput() |
 | `Class` | `PascalCase` | UserController |
+| `Class CSS` | `BEM` | kebab-case__kebab-case |
 
 ## Quy tắc về số lượng
 - Lớp không nên vượt quá 500 dòng
-- Không quá 20 dòng code/hàm (nếu vượt quá, cần tách thành các hàm con)
+- Không quá 30 dòng code/hàm (nếu vượt quá, cần tách thành các hàm con)
 - Mỗi hàm chỉ làm một nhiệm vụ duy nhất
 - Một hàm không được vượt quá 5 tham số. (nên giữ <=3)
 - Khi khai báo biến, một dòng chỉ chứa một biến
 - Một dòng không nên dài quá 80 ký tự
 - Các câu lệnh lồng nhau tối đa 4 cấp
+
+## Quy tắc xuống hàng
+- Nếu có dấu phẩy thì xuống hàng sau dấu phẩy ,
+- Xuống hàng trước toán tử + - * /
+- Nếu có nhiều cấp lồng nhau, thì xuống hàng theo từng cấp
 
 ## Thụt lề
 - Phải có một khoảng trắng cách nhau sau mỗi từ
