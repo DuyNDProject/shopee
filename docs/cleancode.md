@@ -11,10 +11,6 @@
 | `Hàm` | `camelCase + động từ` | validateInput() |
 | `Class` | `PascalCase` | UserController |
 
-## Thụt lề
-- Phải có một khoảng trắng cách nhau sau mỗi từ
-- Mỗi nested block (khối lệnh lồng nhau) nên được thụt lề và cách đều
-
 ## Quy tắc về số lượng
 - Lớp không nên vượt quá 500 dòng
 - Không quá 20 dòng code/hàm (nếu vượt quá, cần tách thành các hàm con)
@@ -23,6 +19,10 @@
 - Khi khai báo biến, một dòng chỉ chứa một biến
 - Một dòng không nên dài quá 80 ký tự
 - Các câu lệnh lồng nhau tối đa 4 cấp
+
+## Thụt lề
+- Phải có một khoảng trắng cách nhau sau mỗi từ
+- Mỗi nested block (khối lệnh lồng nhau) nên được thụt lề và cách đều
 
 ## Cấu trúc code
 - Áp dụng Design Patterns phù hợp
