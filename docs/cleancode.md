@@ -11,6 +11,13 @@
 | `Hàm` | `camelCase + động từ` | validateInput() |
 | `Class` | `PascalCase` | UserController |
 | `Class CSS` | `BEM` | kebab-case__kebab-case |
+| `Controller` | `Singular` | ProductController |
+| `Route` | `Plural` | products/1 |
+| `Model` | `Singular + UpperCase` | Product |
+| `Thành phần trong Model` | `snake_case` | created_at |
+| `Tên bảng` | `Plural + snake_case` | product_comments |
+| `Tên bảng trung gian` | `singular model names in alphabetical order` | article_user |
+| `Tên cột trong bảng` | `snake_case without model name` | meta_title |
 
 ## Quy tắc BEM
 - Block - Là một khối riêng, ví dụ tôi có một button, tôi có thể coi đây là một khối, cách đặt tên là: .block, VD:
