@@ -1,5 +1,5 @@
 ## Thiết kế web
-[Tìm template web](https://github.com/DuyNDProject/shopee/blob/main/docs/template.md)
+- [Tìm template web](https://github.com/DuyNDProject/shopee/blob/main/docs/template.md)
 
 [Xác định chức năng của web](https://github.com/DuyNDProject/shopee/blob/main/docs/feature.md)
 
