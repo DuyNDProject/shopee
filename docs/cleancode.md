@@ -16,7 +16,7 @@
 - Mỗi nested block (khối lệnh lồng nhau) nên được thụt lề và cách đều
 
 ## Độ dài hàm (Function Length)
-- Không quá 20 dòng code/hàm (Nếu vượt quá, cần tách thành các hàm con)
+- Không quá 20 dòng code/hàm (nếu vượt quá, cần tách thành các hàm con)
 - Mỗi hàm chỉ làm một nhiệm vụ duy nhất
 
 ## Cấu trúc code
